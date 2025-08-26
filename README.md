@@ -3,12 +3,16 @@ Range visualization for burst gravitational waves.
 
 Primary Author: Dr. Amber Stuver
 
-Secondary Authors: Nicole DePergola, Dominic Holcomb, Michael Davis, James Terhune
+Secondary Authors: Michael Davis, Nicole DePergola, Dominic Holcomb, James Terhune
 
-Note: code will not run without LIGO login credentials
+NOTE: code will not run without LIGO login credentials
 
 
+FILE LIBRARY:
 
+cWBtoolbox.py - Python script of functions for software
+
+BurstRange-O4.ipynb - Jupyter notebook used for 
 
 
 

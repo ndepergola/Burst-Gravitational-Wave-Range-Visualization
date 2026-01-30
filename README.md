@@ -16,5 +16,5 @@ BurstRange-O4.ipynb - Jupyter notebook that outputs a range visualization of a s
 
 BurstRange-O4-randveto-distribution.ipynb - Jupyter notebook showing the distribution of the mean range when random vetoes are applied.
 
-
+bGW_poster - poster presented at 2023 Villanova Research Symposium. Modified version of this poster presented at American Astronomical Society (AAS) 243 and AAS 245.
 
